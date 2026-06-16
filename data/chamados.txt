@@ -1,0 +1,4 @@
+1|Teste t�tulo | Descri��o do chamado | Prioridade: 2 | Setor: 1|aberto
+2|Notebook n�o funciona | N�o liga e n�o d� sinal de vida | Prioridade: 1 | Setor: 1|Aberto
+3|pc n�o est� funcionando|pc n�o est� conectando com a internet. N�o sei o que pode ser|Suporte Técnico|1|Aberto|1|0|2026-06-12
+4|null|preciso de acessos para trabalhar|null|0|Aberto|0|0|null
